@@ -515,9 +515,10 @@ to{
 }
 
 @media (max-width:991px) {
-    #level-title {
+   h2 {
       
-      margin:  30%;
+      margin-top:  30%;
+      margin-bottom: 30%;
       color: #FEF2BF;
       
     }
